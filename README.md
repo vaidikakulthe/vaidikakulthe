@@ -46,7 +46,7 @@ I specialize in **Python, SQL, and Data Visualization**, focusing on uncovering 
 
 ## 🚀 Featured Data Projects
 
-### 📊 [Data Analytics Lab](https://github.com/pentakotamadhusudhan/data-analytics)
+### 📊 [Data Analytics Lab](https://github.com/pentakotamadhusudhan/Data_analytics_learning)
 *Exploratory data analysis and predictive modeling insights for retail and marketplace performance.*
 
 **Tech Stack:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
@@ -57,7 +57,7 @@ I specialize in **Python, SQL, and Data Visualization**, focusing on uncovering 
 
 ---
 
-### 🥘 [Indian Sweets Classification & Insights](https://github.com/pentakotamadhusudhan/sweets-ml)  
+### 🥘 [Indian Sweets Classification & Insights](https://github.com/pentakotamadhusudhan/indian_sweet_recognition-)  
 *Using Computer Vision and Data Analysis to categorize food items and analyze regional popularity.*
 
 
@@ -87,5 +87,5 @@ I specialize in **Python, SQL, and Data Visualization**, focusing on uncovering 
 ---
 
 <p align="center">
-  <i>"In God we trust, all others must bring data."</i>
+  <i>"Belive in MySelf"</i>
 </p>
