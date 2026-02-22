@@ -7,7 +7,7 @@
 ---
 
 ## ✨ About Me  
-I am an aspiring **Data Analyst** with a strong foundation in **Full-Stack Development**. This unique background allows me to not only analyze data but also understand the underlying systems that generate it. 
+I am an aspiring **Data Analyst** with a strong foundation. This unique background allows me to not only analyze data but also understand the underlying systems that generate it. 
 
 I specialize in **Python, SQL, and Data Visualization**, focusing on uncovering patterns that drive growth and efficiency. I’m a big believer in data integrity, storytelling through visuals, and staying curious about the "why" behind the numbers.
 
